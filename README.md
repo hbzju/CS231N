@@ -1,4 +1,4 @@
-# CS231N-Hobert
+# CS231N
 
 Stanford的CS231N课程，对Deep Learning的相关算法和模型做了简单的介绍。
 
